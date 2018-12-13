@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CKBarcodes</string>
+    <string name="main_label">CameraKit Scanner</string>
+</resources>

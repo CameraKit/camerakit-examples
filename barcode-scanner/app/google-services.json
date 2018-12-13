@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356649547940",
+    "firebase_url": "https://ckbarcodes-a36bc.firebaseio.com",
+    "project_id": "ckbarcodes-a36bc",
+    "storage_bucket": "ckbarcodes-a36bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356649547940:android:8eb640aa5b848da9",
+        "android_client_info": {
+          "package_name": "app.camerakit.barcodes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356649547940-f8k2t2kfphg6rai53dedagfro8a5qt76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChNxqGzwog5IUo_VaXeohuWneRJbP1fqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
